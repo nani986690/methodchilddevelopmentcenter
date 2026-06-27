@@ -54,4 +54,3 @@ menuToggle.setAttribute("aria-expanded", "false");
 }
 
 });
-
